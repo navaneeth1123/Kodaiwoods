@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Kodaiwoods/static/css/main.76904c0a.css",
+    "main.js": "/Kodaiwoods/static/js/main.68bf3db4.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Kodaiwoods/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/footerlogo.png": "/Kodaiwoods/static/media/footerlogo.ad27cc909cf5d9b11e57.png",
+    "static/media/logo (2).png": "/Kodaiwoods/static/media/logo (2).80063e4aee2bb951586b.png",
+    "index.html": "/Kodaiwoods/index.html",
+    "main.76904c0a.css.map": "/Kodaiwoods/static/css/main.76904c0a.css.map",
+    "main.68bf3db4.js.map": "/Kodaiwoods/static/js/main.68bf3db4.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Kodaiwoods/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76904c0a.css",
+    "static/js/main.68bf3db4.js"
+  ]
+}
