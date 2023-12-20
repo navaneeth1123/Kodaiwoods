@@ -1,0 +1,46 @@
+.firstline {
+  background: whitesmoke;
+}
+#imag2 {
+  width: 1263.5px;
+  height: 700px;
+}
+#cname {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  font-size: 60px;
+  color: whitesmoke;
+  letter-spacing: 10px;
+}
+.tageline {
+  position: absolute;
+  text-align: center;
+  top: 65%;
+  left: 36%;
+  color: bisque;
+}
+
+.front {
+  z-index: 2;
+}
+.back {
+  z-index: -2;
+}
+
+@media screen and (max-width: 414px) {
+  #cname {
+    top: 38%;
+    left: 30%;
+    font-size: 60px;
+  }
+  .tageline {
+    top: 48%;
+    left: 36%;
+  }
+}
+#csu {
+  position: fixed;
+  right: 2%;
+  top: 87%;
+}

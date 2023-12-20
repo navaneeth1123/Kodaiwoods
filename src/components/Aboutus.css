@@ -1,0 +1,31 @@
+#abtus {
+  margin-top: 8;
+}
+h1 {
+  text-align: center;
+  padding-bottom: 10px;
+  margin-top: 80px;
+  color: #b89885;
+}
+#line {
+  padding-bottom: 25px;
+}
+
+#image4 {
+  width: 200px;
+  position: fixed;
+  left: 50%;
+  bottom: 100%;
+}
+.size {
+  background: palegoldenrod;
+  max-width: 500px;
+  padding: 10px;
+}
+
+.less {
+  background: palegreen;
+  overflow: hidden;
+  max-height: 0;
+  display: block;
+}

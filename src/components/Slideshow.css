@@ -1,0 +1,8 @@
+.slide-container {
+  z-index: -1;
+}
+@media (max-width: 861px) {
+  .slide-container {
+    width: 890px;
+  }
+}
